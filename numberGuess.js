@@ -21,5 +21,4 @@ const guess = function(range) {
   }
 }
 
-git 
 guess(3)
